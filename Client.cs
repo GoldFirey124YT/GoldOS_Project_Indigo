@@ -3,7 +3,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Client
+namespace Project Indigo
 {
     public partial class Form1 : Form
     {
